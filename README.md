@@ -1,0 +1,1 @@
+rollup-globals-demo
